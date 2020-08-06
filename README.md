@@ -6,4 +6,5 @@ Criação de aplicação distribuída, baseada na comunicação indireta em grup
 ## Tecnologias utilizadas
 - Java
 - Toolkit Jgroups
-
+</br>
+> Utilizar o Linux para rodar a aplicação!
